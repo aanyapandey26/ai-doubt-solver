@@ -1,0 +1,31 @@
+uploads = []
+
+[[generated]]
+id = "dGjiQrmtiZF8aFg1kQ8kC"
+uri = "file://artifacts/ai-doubt-solver/public/hero.png"
+type = "image"
+title = "Abstract electric tech hero illustration"
+
+[[generated]]
+id = "wLYWZ8r1pS3KmjB1ISIvi"
+uri = "file://artifacts/ai-doubt-solver/public/math.png"
+type = "image"
+title = "Math concept 3D icon"
+
+[[generated]]
+id = "rFSq9PoevOvcYgp_JwvJ4"
+uri = "file://artifacts/ai-doubt-solver/public/science.png"
+type = "image"
+title = "Science concept 3D icon"
+
+[[generated]]
+id = "36U1JgDdLNRpDY6UBPRcC"
+uri = "file://artifacts/ai-doubt-solver/public/coding.png"
+type = "image"
+title = "Coding concept 3D icon"
+
+[[outputs]]
+id = "_CptXtE5h7uTFqEUq16Og"
+uri = "file://exports/ai-doubt-solver-project.zip"
+type = "unspecified"
+title = "AI Doubt Solver - Project Export"
